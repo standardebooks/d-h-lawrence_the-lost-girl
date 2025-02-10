@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/d-h-lawrence/the-lost-girl</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-02-10T21:59:26Z</dc:date>
+		<meta property="dcterms:modified">2025-02-10T21:59:26Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -50,15 +50,18 @@
 		<meta id="collection-1" property="belongs-to-collection">James Tait Black Memorial Fiction Prize Winners</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young woman in the English Midlands struggles to find a direction in life.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Alvina Houghton is the only daughter of James Houghton, a merchant in the English Midlands whose business sense is insufficient to ensure his family’s prosperity. Alvina is independent-minded and struggles to fit in with the society around her—none of the available men spark her interest, and she begins training as a maternity nurse more out of a sense of obligation than of duty.&lt;/p&gt;
+			&lt;p&gt;As her father’s business continues to do poorly, he decides to open a theater, with Alvina helping by playing the piano. A traveling troupe of international entertainers arrive, and Alvina soon falls in love with one of them, an Italian named Ciccio.&lt;/p&gt;
+			&lt;p&gt;As the outbreak of the First World War looms, Alvina feels drawn to rural Italy to live with her love. But after having spent a lifetime as an aimless, freethinking, and unconstrained spirit, can she adapt to the expectations of society firmly entrenched in the past?&lt;/p&gt;
+			&lt;p&gt;Like many of &lt;a href="https://standardebooks.org/ebooks/d-h-lawrence"&gt;D. H. Lawrence’s&lt;/a&gt; novels, &lt;i&gt;The Lost Girl&lt;/i&gt; is built around a realistic depiction of English Midland life and society. Despite modern assessments placing it among the lesser of his novels, it won the &lt;a href="https://standardebooks.org/collections/james-tait-black-memorial-fiction-prize-winners"&gt;James Tait Black Memorial Prize for Fiction&lt;/a&gt; in 1920.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/23727</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Lost_Girl/4dWndsoR_osC</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">138583</meta>
+		<meta property="se:reading-ease.flesch">76.93</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Lost_Girl</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/d-h-lawrence_the-lost-girl</meta>
 		<dc:creator id="author">D. H. Lawrence</dc:creator>
