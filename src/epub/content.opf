@@ -68,12 +68,12 @@
 		<meta property="file-as" refines="#author">Lawrence, D. H.</meta>
 		<meta property="se:name.person.full-name" refines="#author">David Herbert Lawrence</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/D._H._Lawrence</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n79018450</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79018450</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Magnus Enckell</dc:contributor>
 		<meta property="file-as" refines="#artist">Enckell, Magnus</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Magnus_Enckell</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/n00089946</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n00089946</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Roger Frank</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Frank, Roger</meta>
