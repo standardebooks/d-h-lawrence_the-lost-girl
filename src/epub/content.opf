@@ -52,7 +52,7 @@
 		<meta id="collection-1" property="belongs-to-collection">James Tait Black Memorial Fiction Prize Winners</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:abstract>A young woman in the English Midlands struggles to find a direction in life.</dc:abstract>
+		<meta property="schema:abstract">A young woman in the English Midlands struggles to find a direction in life.</meta>
 		<dc:description>
 			&lt;p&gt;Alvina Houghton is the only daughter of James Houghton, a merchant in the English Midlands whose business sense is insufficient to ensure his family’s prosperity. Alvina is independent-minded and struggles to fit in with the society around her—none of the available men spark her interest, and she begins training as a maternity nurse more out of a sense of obligation than of duty.&lt;/p&gt;
 			&lt;p&gt;As her father’s business continues to do poorly, he decides to open a theater, with Alvina helping by playing the piano. A traveling troupe of international entertainers arrive, and Alvina soon falls in love with one of them, an Italian named Ciccio.&lt;/p&gt;
